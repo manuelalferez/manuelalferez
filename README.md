@@ -9,4 +9,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manuelalferez&show_icons=true" alt="Stats" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelalferez&layout=compact" alt="Most Used Languages" height="150">
+  <h2>GitHub Profile views:</h2>
+  <img src="https://profile-counter.glitch.me/manuelalferez/count.svg" alt="GitHub Views" height="40">
  </div>
