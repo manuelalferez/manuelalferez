@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%235094F0&size=24&lines=Full+Stack+web+developer;Always+learning+new+things">
+</p>
 
 - 🌱 I’m doing stuff with JavaScript. 
 - 👯 I’m looking to collaborate on Open Source Projects.
