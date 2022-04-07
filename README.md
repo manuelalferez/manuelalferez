@@ -11,7 +11,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manuelalferez&show_icons=true" alt="Stats" height="150">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=manuelalferez&date_format=M%20j%5B%2C%20Y%5D&ring=5094F0&fire=5094F0&currStreakLabel=5094F0" height="150" alt="Streak" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelalferez&layout=compact" alt="Most Used Languages" height="150">
-  <h2>GitHub Profile views:</h2>
-  <img src="https://profile-counter.glitch.me/manuelalferez/count.svg" alt="GitHub Views" height="40">
  </div>
